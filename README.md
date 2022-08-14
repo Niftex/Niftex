@@ -48,7 +48,7 @@
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://public.tableau.com/app/profile/matthew7953"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-matthew7953-blue?style=flat-square&logo=Tableau"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:matthew.orantes916@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matthew.orantes916@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
