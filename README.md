@@ -39,4 +39,3 @@
 <a href="mailto:matthew.orantes916@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matthew.orantes916@gmail.com-teal?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
