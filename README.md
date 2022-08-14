@@ -45,10 +45,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-teal?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/matthew-orantes-6545ba225/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matthew%20Alexander%20Orantes-teal?style=flat-square&logo=linkedin"></a>
-<a href="https://public.tableau.com/app/profile/matthew7953"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-matthew7953-darkgreen?style=flat-square&logo=Tableau"></a>
-<a href="mailto:matthew.orantes916@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matthew.orantes916@gmail.com-purple?style=flat-square&logo=gmail"></a>
+<a href="https://public.tableau.com/app/profile/matthew7953"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-matthew7953-teal?style=flat-square&logo=Tableau"></a>
+<a href="mailto:matthew.orantes916@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matthew.orantes916@gmail.com-teal?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
